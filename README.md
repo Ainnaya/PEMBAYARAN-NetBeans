@@ -18,6 +18,7 @@ Aplikasi Pembayaran ini terdapat:
   - **Button PROSES** berfungsi untuk memproses data tiap harga barang dan diskon yang telah user inputkan untuk ditampilkan di Text Area 
   - **Button HAPUS** berfungsi untuk menghapus semua data yang telah ditampilkan pada Text Area (mengosongkan Text Area).
   - **Button KELUAR** berfungsi untuk menghentikan Run Project atau mengeluarkan projek aplikasi pembayaran tersebut.
+- **1 Text Area** untuk menampilkan data
 
 **Cara menggunakan** aplikasi Pembayaran ini yaitu:
 - Buka aplikasi Pembayaran
